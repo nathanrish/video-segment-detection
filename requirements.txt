@@ -1,0 +1,5 @@
+Flask==2.0.1
+torch==2.0.0
+transformers==4.30.0
+opencv-python==4.5.3.56
+datasets==2.0.0
